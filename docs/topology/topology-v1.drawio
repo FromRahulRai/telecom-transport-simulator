@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.3">
+  <diagram name="Page-1" id="9lwyAmXILFxgrrXoYDCT">
+    <mxGraphModel dx="1042" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="55djsh0w9hABuf_yD3d3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Telecom Transport Simulator – Topology v1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="393" x="358" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=right;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;fontStyle=0;textShadow=0;" value="" vertex="1">
+          <mxGeometry height="49.985" width="25.4" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-3" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" value="" vertex="1">
+          <mxGeometry height="49.985" width="25.4" x="20" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-4" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" value="" vertex="1">
+          <mxGeometry height="49.985" width="25.4" x="20" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BTS-01 (4G eNodeB)" vertex="1">
+          <mxGeometry height="30" width="120" x="70" y="119.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;BTS-02 (4G eNodeB)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="117.3" x="60" y="259.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BTS-03 (5G gNodeB)" vertex="1">
+          <mxGeometry height="30" width="117.3" x="60" y="389.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-39" edge="1" parent="1" source="55djsh0w9hABuf_yD3d3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="55djsh0w9hABuf_yD3d3-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="141" x="229" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;MUX-01&lt;br data-start=&quot;864&quot; data-end=&quot;867&quot;&gt;&lt;br&gt;Access Aggregation Switch&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="224.5" y="259.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="156.5" x="420.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-35" edge="1" parent="1" source="55djsh0w9hABuf_yD3d3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="55djsh0w9hABuf_yD3d3-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;T3 Router&lt;br data-start=&quot;1226&quot; data-end=&quot;1229&quot;&gt;&lt;br&gt;Transport Layer (IP Routing)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="161" x="416" y="259.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="156.5" x="620.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-34" edge="1" parent="1" source="55djsh0w9hABuf_yD3d3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="55djsh0w9hABuf_yD3d3-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Core Router&lt;br data-start=&quot;1432&quot; data-end=&quot;1435&quot;&gt;&lt;br/&gt;Backbone Network" vertex="1">
+          <mxGeometry height="30" width="161" x="616" y="259.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="156.5" x="814.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Media / Application Server&lt;br data-start=&quot;1644&quot; data-end=&quot;1647&quot;&gt;&lt;br/&gt;Test Traffic Destination" vertex="1">
+          <mxGeometry height="30" width="161" x="810" y="259.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-18" edge="1" parent="1" source="55djsh0w9hABuf_yD3d3-6" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="180" />
+            </Array>
+            <mxPoint x="70" y="199.99" as="sourcePoint" />
+            <mxPoint x="120" y="149.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-20" edge="1" parent="1" source="55djsh0w9hABuf_yD3d3-7" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="55djsh0w9hABuf_yD3d3-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="320" />
+            </Array>
+            <mxPoint x="111" y="390" as="sourcePoint" />
+            <mxPoint x="111" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="181.29999999999995" y="274.99" as="sourcePoint" />
+            <mxPoint x="224" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GE Fiber&lt;br data-start=&quot;1036&quot; data-end=&quot;1039&quot;&gt;&lt;br/&gt;4G/5G Data +" vertex="1">
+          <mxGeometry height="30" width="120" x="330" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Signaling + ONM" vertex="1">
+          <mxGeometry height="30" width="120" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10G Fiber" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1840" y="770" as="sourcePoint" />
+            <mxPoint x="1865.5" y="770.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="165" width="200" x="20" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="55djsh0w9hABuf_yD3d3-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Simulation Scope:&lt;br&gt;&lt;br/&gt;• IP Transport&lt;br&gt;&lt;br/&gt;• Aggregation Layer&lt;br&gt;&lt;br/&gt;• Routing Layer&lt;br&gt;&lt;br/&gt;• Media Flow Testing" vertex="1">
+          <mxGeometry height="30" width="180" x="28.65" y="548.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
